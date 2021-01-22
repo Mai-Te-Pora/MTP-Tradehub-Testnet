@@ -8,7 +8,8 @@ Please use the installation instructions here: https://github.com/Switcheo/trade
 V11.0 Release is here - <link>
 
 Node ID/IP addresses for applications are:
-  f04611ca2f10284553e16c817d1df7832604fb52@128.199.183.3
+- f04611ca2f10284553e16c817d1df7832604fb52@128.199.183.3
+- TBA
   
 The usual tradehub/tendermint services are available on the following ports:
 - 5001 - Cosmos SDK API and REST API
