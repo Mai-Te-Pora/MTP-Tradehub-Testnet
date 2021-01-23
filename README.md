@@ -18,9 +18,12 @@ curl -L https://github.com/Mai-Te-Pora/MTP-Tradehub-Testnet/releases/download/<r
    ```bash
    f04611ca2f10284553e16c817d1df7832604fb52@128.199.183.3,1c57adf4b5e60b630748b5125a2b4a11e036d7da@188.166.191.195
    ```
+3. To join as a validator, you'll need TSWTH - contact another MTP dev for a few to stake to get stared
+
+A faucet is on the To-Do list
 
 ## Nodes/Ports
-Initial nodes for accessting the MTP blockchain are:
+Initial nodes for accessing the MTP blockchain are:
 - 128.199.183.3
 - 188.166.191.195
 
