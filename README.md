@@ -16,7 +16,7 @@ curl -L https://github.com/Mai-Te-Pora/MTP-Tradehub-Testnet/releases/download/<r
 
    **NOTE:** In step 1 of the installation procedure, use the following node info for persistent peers
    ```bash
-   f04611ca2f10284553e16c817d1df7832604fb52@128.199.183.3,1c57adf4b5e60b630748b5125a2b4a11e036d7da@188.166.191.195
+   f04611ca2f10284553e16c817d1df7832604fb52@128.199.183.3:26656,1c57adf4b5e60b630748b5125a2b4a11e036d7da@188.166.191.195:26656
    ```
 3. To join as a validator, you'll need TSWTH - contact another MTP dev for a few to stake to get stared
 
